@@ -1,6 +1,6 @@
 {
   "name": "hide-key",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Shortcut for `defineProperty` with `enumerable: false`.",
   "main": "index.js",
   "scripts": {
